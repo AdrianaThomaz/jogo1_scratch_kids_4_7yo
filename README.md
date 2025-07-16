@@ -3,7 +3,7 @@
 
 ## 🎮 Sobre o Jogo
 
-Bem-vindo ao jogo1_sratch_kids_4_7yo! Este é um jogo interativo e divertido desenvolvido no **Scratch** ([Link para o Scratch](https://scratch.mit.edu/)). Ele foi criado pensando em [público-alvo, ex: crianças pequenas, ou para ensinar um conceito específico].
+Bem-vindo ao jogo1_sratch_kids_4_7yo! Este é um jogo interativo e divertido desenvolvido no **Scratch** ([[Link para o Scratch](https://scratch.mit.edu/projects/1197397225)](https://scratch.mit.edu/)). Ele foi criado pensando em [público-alvo, ex: crianças pequenas, ou para ensinar um conceito específico].
 
 
 
